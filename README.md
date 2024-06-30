@@ -24,6 +24,9 @@
 	<a href="https://github.com/INSRDanger/">
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
+	<a href="https://www.facebook.com/diptesh.saha.102">
+		<img src="https://img.shields.io/badge/Facebook-informational?style=social&logo=facebook"/>
+	</a>
 </p>
 
 ## Languages and Tools:
